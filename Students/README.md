@@ -29,6 +29,7 @@
 * Shahana Ibrahim, [shahanaibrahim](http://github.com/shahanaibrahim)
 * Xiaoquan Xing, [Xqxing](http://github.com/Xqxing)
 * Dennis Kim, [kdm01240](http://github.com/kdm01240)
+* Ashvin Shenoy Renjal,[ashvin-shenoy](http://github.com/ashvin-shenoy)
 
 ## Teaching Team
 
